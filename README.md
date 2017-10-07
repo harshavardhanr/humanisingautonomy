@@ -1,7 +1,7 @@
 # Humanising Autonomy: Where are we going?
 AV Principles aiding human centred design of autonomous vehicles
 
-As seen in ustwo Auto's new book - http://ustwo.com/auto/humanisingautonomy/ 
+As seen in ustwo Auto's new book - http://ustwo.com/auto/humanisingautonomy/ .
 Please feel free to add/modify or use these prinicples.
 
 Throughout the research and writing of the book, we have unearthed a number of consistent and ubiquitous user-centred design considerations that we feel are vitally important in designing any user experience within and around an autonomous vehicle. These Human–AV Design Principles act as a guide to keep us creating the most inclusive and most appropriate user experience ensuring that the user gets the best possible journey from their ride. These are principles, not laws and so are subject to change and iteration. 
