@@ -1,5 +1,12 @@
-# Humanising Autonomy
-Principles aiding human centred design of autonomous vehicles
+# Humanising Autonomy: Where are we going?
+AV Principles aiding human centred design of autonomous vehicles
+
+As seen in ustwo Auto's new book - http://ustwo.com/auto/humanisingautonomy/ 
+Please feel free to add/modify or use these prinicples.
+
+Throughout the research and writing of the book, we have unearthed a number of consistent and ubiquitous user-centred design considerations that we feel are vitally important in designing any user experience within and around an autonomous vehicle. These Human–AV Design Principles act as a guide to keep us creating the most inclusive and most appropriate user experience ensuring that the user gets the best possible journey from their ride. These are principles, not laws and so are subject to change and iteration. 
+
+We would love to get feedback from you and we hope that you too will use these when you’re designing for the human, and not for the robot, in an autonomous journey future. 
 
 01. HUMAN AUTONOMY IS THE GOAL
 Ultimately we are creating autonomy for humans, not for the robots. Everything we design is for that human goal – you are not done when the robot is fully autonomous.
@@ -72,3 +79,8 @@ The user experience should be personal – the AV should adapt and monitor prefe
 
 24. THE AV SHOULD NOT TRY TO BE TOO SMART
 If the AV tries to preempt human action all the time, it can cause anxieties as people feel they might not be in control. So prediction should be minimal and done with proper feedback.
+
+- Harsha and Tim
+http://ustwo.com/auto 
+
+
