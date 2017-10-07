@@ -1,4 +1,4 @@
-# humanisingautonomy
+# Humanising Autonomy
 Principles aiding human centred design of autonomous vehicles
 
 01. HUMAN AUTONOMY IS THE GOAL
